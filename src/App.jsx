@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Searchinfo from "./searchinfo";
+import Searchinfo from "./Searchinfo";
 
 import "./App.css";
 
